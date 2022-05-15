@@ -1,0 +1,20 @@
+.profile-component img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.bio-info{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+}
+
+.stats{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+    margin-top: 1rem;
+}

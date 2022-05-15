@@ -1,0 +1,6 @@
+.stats-widget{
+    border: 1px solid teal;
+    /* box-shadow: 0px 1px 2px 0px teal; */
+    padding: 1rem 2rem;
+    border-radius: 6px;
+}

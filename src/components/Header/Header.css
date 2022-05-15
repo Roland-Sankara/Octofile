@@ -1,0 +1,31 @@
+.header-component{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width:100%;
+    box-shadow: 0px .1px 2px 0px gray;
+    margin-bottom: 2rem;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+
+nav{
+    flex-basis: 30%;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a{
+    color:teal;
+    text-decoration: none;
+}
+
+.fa-github{
+    font-size: 2rem;
+}
