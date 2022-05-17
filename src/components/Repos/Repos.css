@@ -1,0 +1,9 @@
+.repos-list{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+    flex-wrap: wrap;
+    width:100%;
+    margin-bottom: 1rem;
+}

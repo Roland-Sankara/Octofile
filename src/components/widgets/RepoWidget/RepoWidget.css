@@ -1,0 +1,49 @@
+.repo-widget{
+    border: 1px solid teal;
+    padding: 1rem;
+    text-align: left;
+    width: 25%;
+    border-radius: 1rem;
+}
+
+.repo-widget h3{
+    height: 2rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+
+.repo-widget > a{
+    font-family: monospace;
+    font-size: 1rem;
+}
+
+.repo-widget > p{
+    height: 3rem;
+    margin-bottom: 2rem;
+}
+
+.repo-info{
+    margin-top: 1rem;
+}
+
+.repo-info, .repo-info > div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:1rem;
+}
+
+.color-orange{
+    color: orange;
+}
+
+.color-orangered{
+    color:orangered;
+}
+
+.color-teal{
+    color: teal;
+}
+
