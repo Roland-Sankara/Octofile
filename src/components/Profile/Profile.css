@@ -18,3 +18,11 @@
     align-items: center;
     margin-top: 1rem;
 }
+
+.fa-spinner{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 2rem;
+}

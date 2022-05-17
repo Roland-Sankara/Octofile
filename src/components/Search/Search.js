@@ -10,7 +10,7 @@ function Search(){
     return (
         <div className='search-component'>
             <i class="fa-brands fa-github"></i>
-            <p className='search-title'>Find Octofile</p>
+            <p className='search-title'>Find Your Octofile</p>
             <input type="text" 
                 onChange={(e)=>updateUsername(e.target.value)} 
                 onKeyUp={(e)=>{
